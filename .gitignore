@@ -77,6 +77,8 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+# Local backup copies of the main notebook (do not commit)
+ML_Group_AR_from_main.ipynb
 
 # IPython
 profile_default/
